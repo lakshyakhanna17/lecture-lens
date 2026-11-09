@@ -111,3 +111,4 @@ This project is completely static and ready for direct one-click deployment:
 
 ## 📄 License
 MIT License. Built for students worldwide to master their courses.
+

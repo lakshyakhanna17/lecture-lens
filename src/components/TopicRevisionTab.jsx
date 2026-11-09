@@ -412,3 +412,4 @@ export default function TopicRevisionTab({ lecture }) {
     </div>
   );
 }
+
